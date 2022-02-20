@@ -1,6 +1,6 @@
 <xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-
+    
 <channel>
     <title>Comicmaton</title>
     <link>https://github.com/JoseMariaQuer/Comic-rss/blob/gh-pages/index.md</link>
@@ -71,3 +71,4 @@
 
 
 </channel>
+</rss>
