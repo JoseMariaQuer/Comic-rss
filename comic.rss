@@ -1,0 +1,73 @@
+<xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+<channel>
+    <title>Comicmaton</title>
+    <link>https://github.com/JoseMariaQuer/Comic-rss/blob/gh-pages/index.md</link>
+    <description>Las ultimas noticias del comic</description>
+    <category>Comics </category>
+    <image url="https://qph.fs.quoracdn.net/main-qimg-5a067b31835f902a9afee336ecef783d-pjlq" />
+    <copyright>Jose Maria Quer Tamayo - a21qutajo@iesgrancapitan.org</copyright>
+    <languaje> es </languaje>
+    <pubDate>Sun, 20 Feb 2022 18:32:52 +0100</pubDate>
+    <skipDays>
+        <day>Sartuday </day>
+        <day>Sunday </day>
+     </skipDays>
+    <skipHours> 
+        <hour>0 </hour>
+        <hour>1 </hour>
+        <hour>2 </hour>
+        <hour>3 </hour>
+        <hour>4 </hour>
+        <hour>5 </hour>
+    </skipHours>
+
+
+    <item>
+        <title>Raptor. Un nuevo mundo para la imaginación de Dave McKean</title>
+        <link>https://www.cinemascomics.com/raptor-un-nuevo-mundo-para-la-imaginacion-de-dave-mckean/</link>
+        <description>El gran Dave Mckean crea todo un nuevo universo en su nueva obra, Raptor. Fantasía, amor, responsabilidad y mucha magia en un libro editado por ECC en España.</description>
+        <author>  JOTA (J.C. Royo) </author>
+        <pubDate>2022-02-04 </pubDate>
+        <enclosure  url="https://www.cinemascomics.com/wp-content/uploads/2022/02/cubierta_raptor-1.jpg.webp"
+                    length="12345"
+                    type="image/jpg" />
+
+    </item>
+
+    <item>
+        <title>EL CÓMIC DE THE WALKING DEAD QUE SU DIBUJANTE SE NEGÓ A HACER</title>
+        <link>https://www.lacasadeel.net/2022/02/comic-the-walking-dead-dibujante.html</link>
+        <description>CRobert Kirkman ha revelado que Charlie Adlard rechazó dibujar un número de The Walking Dead a causa de su extrema violencia gráfica</description>
+        <author>Juan Jesús Botías </author>
+        <pubDate>19 febrero, 2022 </pubDate>
+        <enclosure  url="https://www.lacasadeel.net/wp-content/uploads/2022/02/The-Walking-Dead-comic-destacada.jpg"
+                    length="12345"
+                    type="image/jpg" />
+    </item>
+
+    <item>
+        <title>¿Es el cómic Arte? </title>
+        <link>https://www.tomosygrapas.com/actualidad-semanal-polemica-es-el-comic-arte-los-nuevos-bombazos-de-planeta/</link>
+        <description>Comentamos la polémica de la semana cuando se ha cuestionado la pregunta sobre si el cómic es arte y todo lo que ha pasado al respecto de unas desafortunadas declaraciones.</description>
+        <author>Alfredo Matarranz </author>
+        <pubDate>26 noviembre, 2020 </pubDate>
+        <enclosure  url="https://youtu.be/bFuOdq1ICrQ"
+                    length="12345"
+                    type="video/media" />
+    </item>
+
+    <item>
+        <title>Obi-Wan Kenobi tendrá nueva serie en Marvel Comics</title>
+        <link>https://www.espaciomarvelita.com/2022/02/03/comics/obi-wan-kenobi-tendra-nueva-serie-marvel-comics/</link>
+        <description>Este año Obi-Wan Kenobi tendrá su propia serie de televisión en Disney+, pero también recibirá una serie propia en Marvel Comics.</description>
+        <author>Alejandro Sánchez </author>
+        <pubDate>3 febrero, 2022 </pubDate>
+        <enclosure  url="https://www.espaciomarvelita.com/wp-content/uploads/2022/02/Star-Wars-Obi-Wan-No-1.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1"
+                    length="12345"
+                    type="image/jpg" />
+    </item>
+
+
+</channel>
